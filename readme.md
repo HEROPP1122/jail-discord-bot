@@ -30,9 +30,9 @@ This Discord bot, developed by Wick Studio, offers an innovative solution for ma
 
 ## Usage
 After setting up the bot and inviting it to your server, the following commands are available:
-- `/jail` : Jails a user with a specific reason and duration.
-- `/unjail` : Unjails a user, restoring their previous roles.
-- `/log` : Displays jail logs for a specified user.
+- `اسجن` : Jails a user with a specific reason and duration.
+- `فك سجن` : Unjails a user, restoring their previous roles.
+- `لوج سجن` : Displays jail logs for a specified user.
 
 ## Contributing
 We welcome contributions from the community! If you'd like to contribute to the Wick Studio Discord Bot, please follow these steps:
